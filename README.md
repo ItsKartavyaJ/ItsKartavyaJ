@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, learner, and tech enth
 
 ## 📈 GitHub Stats
 
-![Kartavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsKartavyaJ&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ItsKartavyaJ&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKartavyaJ&layout=compact&theme=radical)
 
